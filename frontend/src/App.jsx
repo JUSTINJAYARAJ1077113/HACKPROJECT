@@ -82,7 +82,7 @@ export default function App() {
           <span className="brand-mark"><FileText size={19} strokeWidth={2.2} /></span>
           <span>documind<span className="brand-ai">.ai</span></span>
         </a>
-        <div className="topbar-right"><span className="secure-dot" /> Your documents stay private</div>
+        <div className="topbar-right"><span className="secure-dot" /> Evidence-first answers, every time</div>
       </header>
 
       <main id="top" className="main-layout">
